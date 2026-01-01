@@ -1,0 +1,8 @@
+/home/top8/projects/reel-forge/backend/target/release/deps/hex-5b28c22d8c6ebe89.d: /home/top8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-0.4.3/src/lib.rs /home/top8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-0.4.3/src/error.rs
+
+/home/top8/projects/reel-forge/backend/target/release/deps/libhex-5b28c22d8c6ebe89.rlib: /home/top8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-0.4.3/src/lib.rs /home/top8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-0.4.3/src/error.rs
+
+/home/top8/projects/reel-forge/backend/target/release/deps/libhex-5b28c22d8c6ebe89.rmeta: /home/top8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-0.4.3/src/lib.rs /home/top8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-0.4.3/src/error.rs
+
+/home/top8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-0.4.3/src/lib.rs:
+/home/top8/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-0.4.3/src/error.rs:
